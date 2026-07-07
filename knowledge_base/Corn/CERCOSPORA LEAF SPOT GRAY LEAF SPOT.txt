@@ -1,0 +1,39 @@
+Crop: Corn
+
+Class Label: Cercospora_Leaf_Spot
+
+Disease: Cercospora Leaf Spot (Gray Leaf Spot)
+
+Summary:
+Gray Leaf Spot is a fungal disease caused by Cercospora zeae-maydis. It produces rectangular gray-to-brown lesions that remain restricted by leaf veins and can significantly reduce photosynthesis and grain yield if left untreated.
+
+Symptoms:
+- Small pinpoint spots with yellow halos
+- Narrow rectangular gray-brown lesions
+- Lesions grow parallel to leaf veins
+- Block-like lesion appearance
+- Large dead blighted areas during severe infection
+- Brown-gray dead tissue formation
+- Spore production under humid conditions
+
+Immediate Action:
+- Inspect lower leaves immediately
+- Remove heavily infected leaves if possible
+- Monitor disease spread weekly
+- Reduce excessive field moisture
+
+Prevention:
+- Use resistant or moderately resistant hybrids
+- Rotate crops away from corn
+- Manage crop residue properly
+- Avoid continuous corn cultivation
+
+Treatment:
+- Apply fungicides during high disease pressure
+- Spray around tasseling to early silking stage
+
+Recommended Fungicides:
+- Azoxystrobin
+- Pyraclostrobin
+- Propiconazole
+- Triazole + Strobilurin premix

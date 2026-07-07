@@ -1,0 +1,38 @@
+Crop: Corn
+
+Class Label: Northern_Leaf_Blight
+
+Disease: Northern Leaf Blight
+
+Summary:
+Northern Leaf Blight is a fungal disease caused by Exserohilum turcicum. It forms large cigar-shaped gray-green to tan lesions that expand rapidly and can greatly reduce grain yield under favorable weather conditions.
+
+Symptoms:
+- Large cigar-shaped lesions
+- Gray-green to tan leaf spots
+- Lesions grow parallel to veins
+- Lesions may merge into large blighted areas
+- Dark dusty fungal spores on mature lesions
+- Reduced photosynthetic area
+
+Immediate Action:
+- Scout infected fields immediately
+- Check lower canopy first
+- Remove heavily infected leaves if possible
+- Monitor disease progression
+
+Prevention:
+- Plant resistant hybrids
+- Rotate with non-host crops
+- Manage crop residue properly
+- Avoid continuous corn cultivation
+
+Treatment:
+- Apply foliar fungicides during early infection
+- Follow recommended spray timing
+
+Recommended Fungicides:
+- Azoxystrobin
+- Propiconazole
+- Pyraclostrobin
+- Mancozeb

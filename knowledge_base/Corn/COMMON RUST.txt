@@ -1,0 +1,34 @@
+Crop: Corn
+
+Class Label: Common_Rust
+
+Disease: Common Rust
+
+Summary:
+Common Rust is a fungal disease caused by Puccinia sorghi. It produces reddish-brown raised pustules on corn leaves and spreads rapidly under cool, humid conditions.
+
+Symptoms:
+- Small raised pustules
+- Rust-red to brown lesions
+- Lesions appear on both leaf surfaces
+- Powdery spore release
+- Yellowing around infected areas
+
+Immediate Action:
+- Remove infected leaves
+- Inspect nearby plants
+- Monitor disease spread regularly
+
+Prevention:
+- Use resistant varieties
+- Practice regular field scouting
+- Avoid excessive moisture
+- Maintain proper field sanitation
+
+Treatment:
+- Apply fungicides at the early stage of infection
+- Repeat spray if disease continues spreading
+
+Recommended Fungicides:
+- Azoxystrobin
+- Propiconazole

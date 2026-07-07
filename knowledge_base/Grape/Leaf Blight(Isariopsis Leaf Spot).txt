@@ -1,0 +1,40 @@
+Crop: Grape
+
+Class Label: Leaf_Blight
+
+Disease: Leaf Blight
+
+Summary:
+Leaf Blight (Isariopsis Leaf Spot) is a fungal disease caused by Pseudocercospora vitis. It produces brown angular leaf lesions that enlarge and may cause premature defoliation under humid conditions.
+
+Symptoms:
+- Small angular brown leaf spots
+- Dark brown lesions
+- Lesions enlarge and merge
+- Large blighted areas
+- Leaves curl and dry
+- Premature leaf drop
+- Dark fungal growth beneath leaves
+
+Immediate Action:
+- Remove infected leaves
+- Improve air circulation
+- Reduce leaf wetness
+- Prune severely infected leaves
+
+Prevention:
+- Maintain vineyard sanitation
+- Remove infected debris
+- Prune for better airflow
+- Avoid overcrowded vines
+- Improve canopy management
+
+Treatment:
+- Apply fungicides during favorable weather
+- Combine fungicide application with cultural practices
+
+Recommended Fungicides:
+- Mancozeb
+- Copper-based fungicides
+- Chlorothalonil
+- Myclobutanil

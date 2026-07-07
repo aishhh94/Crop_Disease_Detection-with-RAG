@@ -1,0 +1,36 @@
+Crop: Grape
+
+Class Label: Healthy_Grape
+
+Disease: Healthy Grape Leaf
+
+Summary:
+The uploaded grape leaf shows no visible disease symptoms. The leaf has a healthy green color with normal structure and no signs of fungal infection.
+
+Symptoms:
+- Uniform green leaf color
+- Normal leaf texture
+- Healthy vein structure
+- No brown spots
+- No fungal growth
+- No blighted patches
+- No abnormal discoloration
+
+Immediate Action:
+- Continue regular monitoring
+- Maintain balanced irrigation
+- Keep vineyard clean
+- Inspect plants regularly
+
+Prevention:
+- Maintain vineyard sanitation
+- Regular pruning for airflow
+- Proper canopy management
+- Balanced fertilization
+- Routine disease scouting
+
+Treatment:
+- No treatment required
+
+Recommended Fungicides:
+- None

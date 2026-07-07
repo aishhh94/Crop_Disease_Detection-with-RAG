@@ -1,0 +1,34 @@
+Crop: Corn
+
+Class Label: Healthy_Corn
+
+Disease: Healthy Corn Leaf
+
+Summary:
+The uploaded leaf shows no visible signs of disease. The leaf has a healthy green color, normal vein structure, and no fungal lesions, rust pustules, or blight symptoms.
+
+Symptoms:
+- Uniform green leaf color
+- Normal vein pattern
+- No spots or lesions
+- No yellow halos
+- No fungal growth
+- No abnormal discoloration
+
+Immediate Action:
+- Continue regular monitoring
+- Maintain proper irrigation
+- Ensure balanced fertilization
+- Inspect plants periodically
+
+Prevention:
+- Maintain field sanitation
+- Use balanced crop nutrition
+- Practice crop rotation
+- Monitor fields regularly
+
+Treatment:
+- No treatment required
+
+Recommended Fungicides:
+- None

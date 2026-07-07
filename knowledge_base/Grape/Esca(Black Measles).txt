@@ -1,0 +1,40 @@
+Crop: Grape
+
+Class Label: Esca
+
+Disease: Esca
+
+Summary:
+Esca is a serious grapevine trunk disease caused by several fungi including Phaeomoniella chlamydospora. It produces tiger-striped leaves, internal wood decay, fruit spotting, and may eventually kill the vine.
+
+Symptoms:
+- Tiger-striped leaf pattern
+- Yellow or red margins around dead tissue
+- Interveinal necrosis
+- Black measles-like berry spots
+- Shoot dieback
+- Tendril dieback
+- Sudden vine collapse in severe cases
+
+Immediate Action:
+- Identify infected vines early
+- Remove infected trunk wood
+- Protect pruning wounds
+- Improve vine health with irrigation and nutrients
+
+Prevention:
+- Perform double pruning
+- Protect pruning wounds
+- Prune during dry weather
+- Maintain balanced nutrition
+- Reduce plant stress
+
+Treatment:
+- Remove infected wood below diseased areas
+- Apply pruning wound protectants
+- Use fungicidal wound treatments
+
+Recommended Fungicides:
+- Thiophanate-methyl
+- Myclobutanil
+- Tetraconazole

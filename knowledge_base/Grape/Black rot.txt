@@ -1,0 +1,40 @@
+Crop: Grape
+
+Class Label: Black_Rot
+
+Disease: Black Rot
+
+Summary:
+Black Rot is a fungal disease caused by Guignardia bidwellii. It affects leaves, shoots, and berries, producing brown leaf spots with black pycnidia and causing berries to shrivel into black mummies if left untreated.
+
+Symptoms:
+- Small brown or tan spots with dark margins
+- Yellow halos around leaf spots
+- Black pycnidia inside mature lesions
+- Brown to purple-brown berry spots
+- Berries become black, shriveled mummies
+- Dark elongated lesions on shoots and petioles
+
+Immediate Action:
+- Remove infected berries immediately
+- Collect and destroy fallen leaves
+- Prune diseased shoots
+- Improve air circulation around vines
+
+Prevention:
+- Remove mummified berries
+- Maintain proper vine spacing
+- Prune regularly
+- Ensure good sunlight exposure
+- Avoid overhead irrigation
+
+Treatment:
+- Apply preventive fungicides before bloom
+- Continue spraying until four weeks after bloom
+- Begin treatment as early as possible
+
+Recommended Fungicides:
+- Mancozeb
+- Myclobutanil
+- Captan
+- Copper-based fungicides
